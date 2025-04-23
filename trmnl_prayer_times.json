@@ -3,11 +3,11 @@
   "items": [
     {
       "label": "Fajr",
-      "value": "4:04 am"
+      "value": "4:07 am"
     },
     {
       "label": "Sunrise",
-      "value": "5:47 am"
+      "value": "5:49 am"
     },
     {
       "label": "Zuhr",
@@ -15,15 +15,15 @@
     },
     {
       "label": "Asr",
-      "value": "5:56 pm"
+      "value": "5:55 pm"
     },
     {
       "label": "Maghrib",
-      "value": "8:15 pm"
+      "value": "8:13 pm"
     },
     {
       "label": "Isha",
-      "value": "9:24 pm"
+      "value": "9:23 pm"
     }
   ]
 }
