@@ -1,14 +1,12 @@
 {
   "plugin": "Wimbledon Mosque - Prayer Times",
-  "items": [
-    { "label": "Fajr", "value": "4:07 AM" },
-    { "label": "Sunrise", "value": "5:49 AM" },
-    { "label": "Zuhr", "value": "1:04 PM" },
-    { "label": "Asr", "value": "5:55 PM" },
-    { "label": "Maghrib", "value": "8:13 PM" },
-    { "label": "Isha", "value": "9:23 PM" }
-  ],
-  "view": {
-    "type": "grid"
-  }
+  "columns": ["Prayer", "Time"],
+  "data": [
+    ["Fajr", "4:07 AM"],
+    ["Sunrise", "5:49 AM"],
+    ["Zuhr", "1:04 PM"],
+    ["Asr", "5:55 PM"],
+    ["Maghrib", "8:13 PM"],
+    ["Isha", "9:23 PM"]
+  ]
 }
