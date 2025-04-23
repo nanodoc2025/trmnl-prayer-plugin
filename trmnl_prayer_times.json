@@ -1,15 +1,14 @@
 {
-  "plugin": "Wimbledon Mosque - Prayer Times (Begins + Sunrise)",
+  "plugin": "Wimbledon Mosque - Prayer Times",
   "items": [
-    { "label": "Fajr", "value": "4:07 am" },
-    { "label": "Sunrise", "value": "5:49 am" },
-    { "label": "Zuhr", "value": "1:04 pm" },
-    { "label": "Asr", "value": "5:55 pm" },
-    { "label": "Maghrib", "value": "8:13 pm" },
-    { "label": "Isha", "value": "9:23 pm" }
+    { "label": "Fajr", "value": "4:07 AM" },
+    { "label": "Sunrise", "value": "5:49 AM" },
+    { "label": "Zuhr", "value": "1:04 PM" },
+    { "label": "Asr", "value": "5:55 PM" },
+    { "label": "Maghrib", "value": "8:13 PM" },
+    { "label": "Isha", "value": "9:23 PM" }
   ],
   "view": {
-    "type": "list",
-    "columns": 2
+    "type": "grid"
   }
 }
